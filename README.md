@@ -14,10 +14,6 @@ A simple and responsive stopwatch timer built using **HTML**, **CSS**, and **Jav
 - CSS3 (with Flexbox)
 - JavaScript (ES6)
 
-## 📸 Demo
-
-![Stopwatch Screenshot](screenshot.png)
-
 ## 📁 How to Run
 
 1. Clone this repo:
